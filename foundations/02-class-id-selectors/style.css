@@ -1,0 +1,18 @@
+.notsocool {
+    background-color: rgba(255, 0, 0, 0.255);
+    font-family: sans-serif
+}
+#yeet {
+    color: blue;
+    font-family: sans-serif;
+    font-size: larger;
+}
+#sheet {
+    background-color: green;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+.cooler {
+    font-size: larger;
+}
